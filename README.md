@@ -12,7 +12,7 @@
 
 <br>
 
-<div>
+<div> 
   <a href="https://github.com/GiovannyMCA">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyMCA&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiovannyMCA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,6 +25,10 @@
   <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
 
+   <p>
+
+
+</p>
 </div>
 
 <div>
